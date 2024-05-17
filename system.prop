@@ -1,0 +1,3 @@
+ro.crypto.metadata.enabled=false
+ro.crypto.metadata_init_delete_all_keys.enabled=true
+ro.crypto.uses_fs_ioc_add_encryption_key=false
