@@ -1,0 +1,7 @@
+id=qquickboot
+name=QQuick boot 
+version=1.0
+versionCode=1
+author=Tadano
+description= increases phone boot speed by disabling encryption metadata 
+updateJson=
